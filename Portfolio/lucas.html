@@ -24,10 +24,16 @@
         <div class="logo">
           <a href="/Portfolio/index.html">I<span>&</span>T</a>
         </div>
-        <audio autoplay="autoplay" controls="none">
+        <audio autoplay="autoplay" id="lucasAudio" controls="none">
           <source src="/music/lucas.mp3" type="audio/mpeg" />
           seu navegador não suporta HTML5
         </audio>
+
+        <script>
+          var audio = document.getElementById('lucasAudio')
+          audio.volume = 1
+        </script>
+
         <ul class="menu">
           <li><a href="#home">Inicio</a></li>
           <li><a href="#about">Sobre</a></li>
