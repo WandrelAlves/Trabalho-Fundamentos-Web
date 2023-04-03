@@ -17,10 +17,17 @@
         <div class="logo">
           <a href="/Portfolio/index.html">I<span>&</span>T</a>
         </div>
-        <audio autoplay="autoplay" controls="none">
+        <audio autoplay="autoplay" id="wandrelAudio" controls="none">
           <source src="/music/musica.mp3" type="audio/mp3" />
           seu navegador não suporta HTML5
         </audio>
+
+        <script>
+          var audio = document.getElementById("wandrelAudio");
+          audio.volume = 0.1;
+        </script>
+
+
         <ul class="menu">
           <li><a href="#home">Inicio</a></li>
           <li><a href="#about">Sobre</a></li>
