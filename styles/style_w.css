@@ -416,20 +416,19 @@ section .title_contact::after{
     background: #e50914;
 }
 .skills .skills-content .right .html::before{
-    width: 40%;
+    width: 70%;
 }
-
 .skills .skills-content .right .css::before{
-    width: 40%;
+    width: 70%;
 }
 .skills .skills-content .right .js::before{
-    width: 45%;
+    width: 55%;
 }
 .skills .skills-content .right .py::before{
-    width: 30%;
+    width: 40%;
 }
-.skills .skills-content .right .c::before{
-    width: 30%;
+.skills .skills-content .right .kotlin::before{
+    width: 45%;
 }
 
 
