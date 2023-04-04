@@ -26,8 +26,11 @@ Cada página tem uma paleta de cores e especificamente as páginas dos integrant
 <p>No segundo projeto recriamos o site da Netflix. fizemos uma página principal, uma de login e uma de logout.<br> Por ser uma página um pouco complexa foi utilizado vários arquivos CSS.<br> Fizemos um link da página de um integrante do grupo com a página principal da netflix, criando um acesso ao projeto da Netflix pelo portifólio.</p>
 <p>link do site postado no GitHub Pages</p> 
 <p><a href="https://wandrelalves.github.io/Trabalho-Fundamentos-Web/"> https://wandrelalves.github.io/Trabalho-Fundamentos-Web/</a></p>
+<img src="gif netflix.gif" height="500" width="900"/>
 
- <img src="gif netflix.gif" height="500" width="900"/>
+## Histórico de Commits
+
+<img src="gráfico de commit.gif" height="500" width="900"/>
 
 ## Autores
 
